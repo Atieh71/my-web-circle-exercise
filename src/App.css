@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  color: rgb(11 11 11 / 87%);
+  background-color: white;
+}
+
+#root {
+  width: 100%;
+}
